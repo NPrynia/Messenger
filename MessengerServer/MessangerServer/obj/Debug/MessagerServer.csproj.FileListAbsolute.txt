@@ -1,0 +1,505 @@
+D:\MessangerServer\MessangerServer\MessangerServer\bin\MessangerServer.dll.config
+D:\MessangerServer\MessangerServer\MessangerServer\bin\MessangerServer.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\MessangerServer.pdb
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csc.exe
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csc.exe.config
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csc.rsp
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csi.exe
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csi.exe.config
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\csi.rsp
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.AppContext.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Collections.Immutable.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Console.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Globalization.Calendars.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.IO.Compression.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Net.Http.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Net.Sockets.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Reflection.Metadata.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.ValueTuple.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XPath.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\vbc.exe
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\vbc.exe.config
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\vbc.rsp
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe
+D:\MessangerServer\MessangerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe.config
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Antlr3.Runtime.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\EntityFramework.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\EntityFramework.SqlServer.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Microsoft.Web.Infrastructure.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Newtonsoft.Json.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Net.Http.Formatting.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Helpers.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Http.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Http.WebHost.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Mvc.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Optimization.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Razor.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.Deployment.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.Razor.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\WebGrease.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\EntityFramework.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\EntityFramework.SqlServer.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Newtonsoft.Json.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Net.Http.Formatting.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Helpers.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Http.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Http.WebHost.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Mvc.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Optimization.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.Razor.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.Deployment.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\System.Web.WebPages.Razor.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Antlr3.Runtime.pdb
+D:\MessangerServer\MessangerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\EntityFramework.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Helpers.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Http.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Mvc.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Optimization.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.Razor.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\MessangerServer\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.AssemblyReference.cache
+D:\MessangerServer\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CoreCompileInputs.cache
+D:\MessangerServer\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CopyComplete
+D:\MessangerServer\MessangerServer\MessangerServer\obj\Debug\MessangerServer.dll
+D:\MessangerServer\MessangerServer\MessangerServer\obj\Debug\MessangerServer.pdb
+D:\MessangerServer\MessangerServer\MessangerServer\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\MessangerServer.dll.config
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\MessangerServer.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\MessangerServer.pdb
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csc.exe
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csc.exe.config
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csc.rsp
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csi.exe
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csi.exe.config
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\csi.rsp
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.AppContext.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Console.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.IO.Compression.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Net.Http.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.ValueTuple.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\vbc.exe
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\vbc.exe.config
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\vbc.rsp
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Antlr3.Runtime.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\EntityFramework.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\EntityFramework.SqlServer.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Newtonsoft.Json.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Net.Http.Formatting.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Helpers.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Http.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Http.WebHost.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Mvc.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Optimization.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Razor.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\WebGrease.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\EntityFramework.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\EntityFramework.SqlServer.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Newtonsoft.Json.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Net.Http.Formatting.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Helpers.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Http.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Http.WebHost.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Mvc.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Optimization.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.Razor.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Antlr3.Runtime.pdb
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\EntityFramework.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Http.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.Razor.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.AssemblyReference.cache
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CoreCompileInputs.cache
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CopyComplete
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\obj\Debug\MessangerServer.dll
+C:\Users\nprya\OneDrive\Рабочий стол\MessangerServer\MessangerServer\obj\Debug\MessangerServer.pdb
+F:\MessengerServer\MessangerServer\bin\MessangerServer.dll.config
+F:\MessengerServer\MessangerServer\bin\MessangerServer.dll
+F:\MessengerServer\MessangerServer\bin\MessangerServer.pdb
+F:\MessengerServer\MessangerServer\bin\roslyn\csc.exe
+F:\MessengerServer\MessangerServer\bin\roslyn\csc.exe.config
+F:\MessengerServer\MessangerServer\bin\roslyn\csc.rsp
+F:\MessengerServer\MessangerServer\bin\roslyn\csi.exe
+F:\MessengerServer\MessangerServer\bin\roslyn\csi.exe.config
+F:\MessengerServer\MessangerServer\bin\roslyn\csi.rsp
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.AppContext.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Collections.Immutable.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Console.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Globalization.Calendars.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Net.Http.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Net.Sockets.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Reflection.Metadata.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.ValueTuple.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MessengerServer\MessangerServer\bin\roslyn\vbc.exe
+F:\MessengerServer\MessangerServer\bin\roslyn\vbc.exe.config
+F:\MessengerServer\MessangerServer\bin\roslyn\vbc.rsp
+F:\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe
+F:\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe.config
+F:\MessengerServer\MessangerServer\bin\Antlr3.Runtime.dll
+F:\MessengerServer\MessangerServer\bin\EntityFramework.dll
+F:\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.dll
+F:\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MessengerServer\MessangerServer\bin\Microsoft.Web.Infrastructure.dll
+F:\MessengerServer\MessangerServer\bin\Newtonsoft.Json.dll
+F:\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Helpers.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Http.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Mvc.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Optimization.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.Razor.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.dll
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.dll
+F:\MessengerServer\MessangerServer\bin\WebGrease.dll
+F:\MessengerServer\MessangerServer\bin\EntityFramework.xml
+F:\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.xml
+F:\MessengerServer\MessangerServer\bin\Newtonsoft.Json.xml
+F:\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Helpers.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Http.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Mvc.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Optimization.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.Razor.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.xml
+F:\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.xml
+F:\MessengerServer\MessangerServer\bin\Antlr3.Runtime.pdb
+F:\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MessengerServer\MessangerServer\bin\ru\EntityFramework.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Helpers.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Http.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Mvc.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Optimization.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.Razor.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.AssemblyReference.cache
+F:\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CoreCompileInputs.cache
+F:\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CopyComplete
+F:\MessengerServer\MessangerServer\obj\Debug\MessangerServer.dll
+F:\MessengerServer\MessangerServer\obj\Debug\MessangerServer.pdb
+F:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.dll.config
+F:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.pdb
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.exe
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.exe.config
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.rsp
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.exe
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.exe.config
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.rsp
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.AppContext.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Collections.Immutable.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Console.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Globalization.Calendars.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Net.Http.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Net.Sockets.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Reflection.Metadata.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.ValueTuple.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.exe
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.exe.config
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.rsp
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe
+F:\Messenger\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe.config
+F:\Messenger\MessengerServer\MessangerServer\bin\Antlr3.Runtime.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.Web.Infrastructure.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\Newtonsoft.Json.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Helpers.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Mvc.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Optimization.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Razor.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\WebGrease.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\Newtonsoft.Json.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Helpers.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Mvc.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Optimization.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Razor.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\Antlr3.Runtime.pdb
+F:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\EntityFramework.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Helpers.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Http.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Mvc.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Optimization.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Razor.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.AssemblyReference.cache
+F:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CoreCompileInputs.cache
+F:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CopyComplete
+F:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessangerServer.dll
+F:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessangerServer.pdb
+D:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.AssemblyReference.cache
+D:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CoreCompileInputs.cache
+D:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessangerServer.dll
+D:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessangerServer.pdb
+D:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.dll.config
+D:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\MessangerServer.pdb
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.exe
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.exe.config
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csc.rsp
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.exe
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.exe.config
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\csi.rsp
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.AppContext.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Collections.Immutable.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Console.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Globalization.Calendars.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Net.Http.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Net.Sockets.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Reflection.Metadata.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.ValueTuple.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.exe
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.exe.config
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\vbc.rsp
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe
+D:\Messenger\MessengerServer\MessangerServer\bin\roslyn\VBCSCompiler.exe.config
+D:\Messenger\MessengerServer\MessangerServer\bin\Antlr3.Runtime.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.Web.Infrastructure.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\Newtonsoft.Json.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Helpers.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Mvc.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Optimization.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Razor.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\WebGrease.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\EntityFramework.SqlServer.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\Newtonsoft.Json.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Net.Http.Formatting.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Helpers.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Http.WebHost.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Mvc.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Optimization.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.Razor.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Deployment.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\System.Web.WebPages.Razor.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\Antlr3.Runtime.pdb
+D:\Messenger\MessengerServer\MessangerServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\EntityFramework.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Helpers.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Http.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Mvc.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Optimization.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.Razor.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Messenger\MessengerServer\MessangerServer\obj\Debug\MessagerServer.csproj.CopyComplete
